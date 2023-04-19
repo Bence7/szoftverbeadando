@@ -1,0 +1,26 @@
+#anchor{
+    -fx-background-color: beige;
+}
+
+#grid{
+    -fx-background-color: white;
+}
+
+.square{
+    -fx-border-color: black;
+    -fx-background-color: grey;
+    -fx-border-width: 0.5px;
+}
+
+.wall{
+    -fx-background-color: black;
+}
+.bluecircle{
+    -fx-stroke: black;
+    -fx-fill: blue;
+}
+
+.redcircle{
+    -fx-stroke: black;
+    -fx-fill: red;
+}

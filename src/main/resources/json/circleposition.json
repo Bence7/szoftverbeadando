@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "color": "blue",
+    "position":
+      {
+        "x": 0,
+        "y": 0
+      }
+  },
+
+  {
+    "id": 2,
+    "color": "blue",
+    "position":
+    {
+      "x": 1,
+      "y": 0
+    }
+  }
+]
